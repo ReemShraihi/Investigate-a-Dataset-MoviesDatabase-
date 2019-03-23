@@ -1,2 +1,1 @@
-# Udacity-DAND-p3
-The third project of Udacity DAND program.
+In this project I will investigate a Dataset  of Movies
